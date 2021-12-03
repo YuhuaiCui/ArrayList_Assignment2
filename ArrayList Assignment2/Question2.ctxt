@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Question2
+comment1.params=argos
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.lang.String\ goldbachConjecture(int)
+comment3.params=n
+comment3.target=java.util.ArrayList\ sieveOfEratosthenes(int)
+numComments=4
